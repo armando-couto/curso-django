@@ -5,7 +5,7 @@ dj-static==0.0.6
 django-toolbelt==0.0.1
 gunicorn==18.0
 mock==4.0.3
-model-mommy==1.6.0
+model-mommy==2.0.0
 psycopg2==2.9.3
 pystache==0.6.0
 six==1.16.0
