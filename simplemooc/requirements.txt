@@ -2,7 +2,7 @@ Django==5.0.3
 Pillow==10.2.0
 dj-database-url==2.1.0
 dj-static==0.0.6
-django-toolbelt==0.0.1
+django-toolbelt==0.0.3
 gunicorn==21.2.0
 mock==5.1.0
 model-mommy==2.0.0
