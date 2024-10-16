@@ -6,7 +6,7 @@ django-toolbelt==0.0.3
 gunicorn==23.0.0
 mock==5.1.0
 model-mommy==2.0.0
-psycopg2==2.9.9
+psycopg2==2.9.10
 pystache==0.6.5
 six==1.16.0
 static==1.1.1
