@@ -7,6 +7,6 @@ gunicorn==23.0.0
 mock==5.2.0
 model-mommy==2.0.0
 psycopg2==2.9.10
-pystache==0.6.7
+pystache==0.6.8
 six==1.17.0
 static==1.1.1
