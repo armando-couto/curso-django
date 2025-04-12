@@ -1,5 +1,5 @@
 Django==5.2
-Pillow==11.2.0
+Pillow==11.2.1
 dj-database-url==2.3.0
 dj-static==0.0.6
 django-toolbelt==0.0.3
